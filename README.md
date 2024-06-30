@@ -30,4 +30,11 @@ This PowerShell script automates the process of uninstalling Edge from your syst
 - **Backup**: It's recommended to back up your system or critical data before running this script.
 - **Support**: For questions or issues, please reach out to me on my [Discord Server](https://discord.gg/bfAwrUJJs7) or [contact me via email](mailto:edgeremover@skymail.de).
 
+## License
+
+This project is licensed under the Mozilla Public License 2.0. You can find a copy of the license at http://mozilla.org/MPL/2.0/.
+
+## Copyright
+
+© 2024 Slicisi. All rights reserved.
 ---
