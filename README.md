@@ -34,7 +34,5 @@ This PowerShell script automates the process of uninstalling Edge from your syst
 
 This project is licensed under the Mozilla Public License 2.0. You can find a copy of the license at http://mozilla.org/MPL/2.0/.
 
-## Copyright
-
-© 2024 Slicisi. All rights reserved.
 ---
+© 2024 Slicisi. All rights reserved.
